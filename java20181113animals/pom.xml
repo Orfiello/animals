@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>orfiel</groupId>
-    <artifactId>java-2018-11-13-numbers</artifactId>
+    <artifactId>java20181113animals</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
